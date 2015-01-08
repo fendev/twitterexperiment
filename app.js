@@ -81,10 +81,10 @@ var util = require('util'),
 twitter = require('twitter');
 
 var twit = new twitter({
-    consumer_key: '23A1ZKCUREqzF4hgofUF9y5S1',
-    consumer_secret: 'CmRHnTar1IZgB6Apjy8MZ0RjP0YLndTEjuKdxWLHTW5QOfQwVJ',
-    access_token_key: '469775685-maTbqIkUARzqIbznx09N5qPvhp1vRH9Xw4CimMrj',
-    access_token_secret: '2YBHRa3gT8eIRVIAh9PBZu4rqEaly8Mnn4pooKovumZOV'
+    consumer_key: 'FRJrn0AfYN5p1fnCnQSPeE03R',
+    consumer_secret: 'fhYlt8WGMaE4t3i0Ym5ym0sAxRpMxxqoSwqrTobDnAKgqUp1va',
+    access_token_key: '1016367678-CrZiZHTDqKMmtTUFod3DGSE6eGDY7RFvv9KpgP0',
+    access_token_secret: 'XhXjQvSzxgTsVfNvOsJE7vvkue4IClA9xihbsfK2nlj9z'
 });
 
 
